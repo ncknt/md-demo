@@ -1,0 +1,9 @@
+name: delivery
+application: myapp
+serviceAccount: sekret-service-account@spinnaker-test.net
+artifacts: []
+hasManagedResources: true
+environments:
+  - name: dev
+    hasManagedResources: true
+    resources: []
