@@ -1,6 +1,5 @@
 name: delivery
 application: myapp
-serviceAccount: service-account@armory.io
 artifacts: []
 hasManagedResources: true
 environments:
