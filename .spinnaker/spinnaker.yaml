@@ -1,6 +1,6 @@
 name: delivery
 application: myapp
-serviceAccount: sekret-service-account@spinnaker-test.net
+serviceAccount: service-account@armory.io
 artifacts: []
 hasManagedResources: true
 environments:
